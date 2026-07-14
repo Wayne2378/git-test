@@ -1,7 +1,5 @@
 ![image-20260710163554898](./EUREF Permanent GNSS Network (EPN)数据目录介绍-插图/image-20260710163554898.png)
 
-
-
 你这个截图是一个**GNSS数据中心根目录（Root Directory）**，从目录结构来看，它是一个提供 **IGS/EPN/CORS类GNSS数据产品** 的服务器。
 
 这些目录基本覆盖了 GNSS 后处理中常用的全部数据：
